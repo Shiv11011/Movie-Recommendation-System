@@ -47,6 +47,3 @@ Movie-Recommendation-System/
 ├── movies.csv                          # Movie dataset
 ├── README.md                           # Documentation
 ```
-
-## License
-MIT
